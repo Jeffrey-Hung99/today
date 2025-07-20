@@ -1,2 +1,2 @@
 # today
-practice 
+pract 
